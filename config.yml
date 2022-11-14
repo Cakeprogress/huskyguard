@@ -1,0 +1,22 @@
+Launcher-hash: 73782f170035fd89eb23da3c042d6c9f
+Mods-hash: 07c71a00c319d83669b7cd8c7f70c3eb
+Others-hash: 87b6e6f27c309d9dccb1a1aff569619f
+Shutdown-PC: false
+Valid-List: noppes.npcs.events.EntityKilledEvent;atheria.fewizz.trade.Trade;net.techbrew.journeymap.forgehandler.WaypointBeaconHandler;noppes.npcs.events.HealthEvent;DamageIndicatorsMod.core.DIEventBus;ru.zonix.trade.Main;ru.zonix.render.Main;cubex2.cs2.handler.event.IngameOverlayHandler;net.techbrew.journeymap.forgehandler.MiniMapOverlayHandler;noppes.npcs.NewFunction.enchantments.listeners.EnchantmentListener;cpw.mods.ironchest.OcelotsSitOnChestsHandler;com.lithial.me.handlers.LivingHandler;com.lithial.me.handlers.ArrowHandler;atheria.fewizz.trade.Trade$2;ru.zeydie.journeymap.handlers.TickHandler;DamageIndicatorsMod.core.DITicker;noppes.npcs.me.Kepa2012.Updater;noppes.npcs.ClientKeyHandler;cpw.mods.fml.common.modloader.BaseModTicker;cpw.mods.fml.common.modloader.BaseModTicker;ru.cazmusw.casino.Main$2;noppes.npcs.ClientTickHandler;bspkrs.bspkrscore.fml.BSCTicker;com.lithial.me.handlers.utils.KeyBind;nodelay.NoDelay$1;DamageIndicatorsMod.core.KeyBindingReposition;cpw.mods.fml.common.modloader.BaseModTicker;ru.zonix.render.KeyHandler;cpw.mods.fml.common.modloader.BaseModTicker;com.ae8zak10.BindManager$1;wecui.GameTickHandler;drzhark.mocreatures.client.settings.MoCKeyHandler;net.techbrew.journeymap.forgehandler.StateTickHandler;drzhark.mocreatures.client.MoCClientTickHandler;ru.cazmusw.holograms.HologramsMod$1;noppes.npcs.ClientTickHandler;net.minecraft.alluwant.client.KeyHandler;net.techbrew.journeymap.forgehandler.KeyEventHandler;net.minecraft.profiler.Profiler;net.minecraftforge.event.EventBus;net.minecraft.client.renderer.EntityRenderer
+Profiler: net.minecraft.profiler.Profiler
+Event-Bus: cpw.mods.fml.common.eventhandler.EventBus
+Entity-Renderer: net.minecraft.client.renderer.EntityRenderer
+ban: true
+bancommands:
+- /hwids ban %s
+- /ban %s cheats
+detected:
+- ru.tsunami
+- ru.leforce.Main
+detectionwindows:
+- Extreme Injector
+screener:
+  enabled: true
+  clientID: ID
+whitelist:
+- Cakeprogress
