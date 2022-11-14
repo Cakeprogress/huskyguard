@@ -2,10 +2,8 @@
 Защита с различными возможностями нахождения внутриигровых читов, 
 от самой последней версии TMaster, до самых обыденных майнкрафто читов.
 
-Верстаю дизайны, пишу сложные механики. <br>
-ВК - [***тык***](https://vk.com/dimakubikov228) <br>
 <a href="https://t.me/cakeprogress"><img align="left" src="telegram-icon.png" alt="icon | Telegram" width="64px" heigth="64px"/></a>
-<br/><br/><br/>
+<a href="https://vk.com/dimakubikov228"><img align="left" src="vk-icon.png" alt="icon | VK" width="64px" heigth="64px"/></a>
 
 Оплату принимаю на любые платежные системы (UA,RU,EU) 
 
